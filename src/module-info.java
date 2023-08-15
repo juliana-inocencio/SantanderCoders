@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author regin
+ *
+ */
+module ADA {
+}
